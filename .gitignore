@@ -1,2 +1,4 @@
 workspace.json
-.obsidian/plugins/plugin-in-development/*
+# Ignore everything in the plugin directory except the included hot-reload plugin
+.obsidian/plugins/*
+!.obsidian/plugins/hot-reload
