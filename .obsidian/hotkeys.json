@@ -57,5 +57,13 @@
       ],
       "key": "M"
     }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
