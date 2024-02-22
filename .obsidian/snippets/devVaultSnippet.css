@@ -1,0 +1,6 @@
+body {
+    --titlebar-background: yellow;
+    --titlebar-background-focused: yellow;
+    --titlebar-text-color-focused: black;
+    --titlebar-text-color: black;
+}
