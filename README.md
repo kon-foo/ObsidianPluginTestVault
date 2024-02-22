@@ -1,0 +1,2 @@
+## Obsidian Plugin Test Vault
+This is a test vault for testing Obsidian plugins. It is meant to be used with the [Obsidian Plugin Template](https://github.com/kon-foo/ObsidianPluginTemplate). Check out its README for more information.
